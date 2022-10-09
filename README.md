@@ -1,4 +1,6 @@
-# 1.消息队列
+
+
+# springboot 集成 rabbitmq
 
 ## 1.1 MQ的相关概念
 
